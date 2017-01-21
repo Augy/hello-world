@@ -1,2 +1,3 @@
 # hello-world
-Making a repository 
+
+Python is not a snake.
